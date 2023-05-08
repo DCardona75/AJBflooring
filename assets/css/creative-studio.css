@@ -11522,7 +11522,7 @@ pre .code {
 }
 
 .header {
-  height: 50%;
+  height: 70%;
   min-height: 50%;
   background-color: var(--blue);
   background: url(../imgs/floorbackground.png) no-repeat center center fixed;
@@ -11534,7 +11534,7 @@ pre .code {
   left: 0;
   top: 0;
   width: 100%;
-  height: 50%;
+  height: 70%;
   background: rgba(0, 0, 0, 0.45);
   color: #fff;
   display: -webkit-box;
